@@ -20,30 +20,30 @@ global.APIKeys = {
 //customize settings\\
 
 global.alivemsg = `My name is CYBER HASIYA🔥
-My Creator is Hasitha Senal😎` //Costomize Alive Message (type your message in `` )
+My Creator is Hasitha Senal😎` //Costomize Alive Message (type your message in `WADA BNG ITHIN😏 ` )
 
 global.owner = ['+94702262089'] //Owner number in aive msg
-global.premium = ['+380944814219'] //Owner Number info
-global.ownernomer = '+380944814219' //Owner Number <<<
+global.premium = [''] //Owner Number info
+global.ownernomer = '' //Owner Number <<<
 
 global.ownername = '😎MR HASIYA' //Owner Name
 global.botname = ' ☬RED༒DRAGON࿐' //Bot Name
 
-global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
+global.button = '☰ MY TIK TOKE PAGE ☰' //Costomize A Button Name In Alive Message
+global.btnurl = 'https://vm.tiktok.com/ZSdcc19Bq/' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
 global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
 global.author = '😎HASIYA❯❯' //Author Name
-global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
+global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,hasiya 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '©_Kumuthu.' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
-global.ig = 'https://github.com/prabhasha2006' //Github Account!
+global.ig = 'https://vm.tiktok.com/ZSdcc19Bq/' //Github Account!
 
 global.mess = { // COSTOMIZE WITH YOUR LANGUAGE
 	
